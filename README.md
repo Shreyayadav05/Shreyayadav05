@@ -1,5 +1,5 @@
-# Hi👋,I'm Shreya B Yadav
-A passionate developer from India💻
+                                                                                              # Hi👋,I'm Shreya B Yadav
+                                                                                          A passionate developer from India💻
 
 
 ## 🌐 Socials:
