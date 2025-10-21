@@ -1,5 +1,5 @@
-# 💫 About Me:
-computer science and engineering student
+# Hi👋,I'm Shreya B Yadav
+A passionate developer from India💻
 
 
 ## 🌐 Socials:
