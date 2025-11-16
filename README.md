@@ -1,6 +1,7 @@
  # Hi👋,I'm Shreya B Yadav
- A passionate developer from India💻
- 🌱I'm currently learning a full satck development and AI
+ 
+  A passionate developer from India💻
+ 🌱I'm currently learning a full stack development and AI and also preparing for GATE
  👩🏻‍💻I'm currently working on project Smart health monitoring and early monitoring fro water-borne diseases in Rural northeast India 
 
 
