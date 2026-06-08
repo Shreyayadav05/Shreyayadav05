@@ -2,7 +2,7 @@
  
   A passionate developer from India💻
  🌱I'm currently learning a full stack development and AI and also preparing for GATE
- 👩🏻‍💻I'm currently working on project Smart health monitoring and early monitoring fro water-borne diseases in Rural northeast India 
+ 👩🏻‍💻I'm currently working on project Blockchain Based Certificate verification with QR Validation
 
 
 ## 🌐 Socials:
